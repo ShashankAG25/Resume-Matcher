@@ -62,10 +62,10 @@ Update the path in main.py and run
 
 ## Screenshots
 
-![Results] Screenshots/results1.png
-![Results] Screenshots/results2.png
-![Results] Screenshots/results3.png
-![Results] Screenshots/results4.png
-![Results] Screenshots/results5.png
+![Results1](https://github.com/ShashankAG25/Resume-Matcher/blob/c75c8b5d506d43ac687d257a0ee8ba072200b9e2/Screenshots/results1.png)
+![Results2](https://github.com/ShashankAG25/Resume-Matcher/blob/c75c8b5d506d43ac687d257a0ee8ba072200b9e2/Screenshots/results2.png)
+![Results3](https://github.com/ShashankAG25/Resume-Matcher/blob/c75c8b5d506d43ac687d257a0ee8ba072200b9e2/Screenshots/results3.png)
+![Results4](https://github.com/ShashankAG25/Resume-Matcher/blob/c75c8b5d506d43ac687d257a0ee8ba072200b9e2/Screenshots/results4.png)
+![Results5](https://github.com/ShashankAG25/Resume-Matcher/blob/c75c8b5d506d43ac687d257a0ee8ba072200b9e2/Screenshots/results5.png)
 
 
