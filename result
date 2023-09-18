@@ -1,0 +1,109 @@
+/home/shashank/PycharmProjects/ResumeMatcher/venv/bin/python /home/shashank/PycharmProjects/ResumeMatcher/main.py 
+
+
+	.......... Resume matcher is running ..........
+
+Please wait... Finding the best match for Sales Specialist at Google
+
+Top five matching resumes for the role Sales Specialist at Google are :
+
+1. DataSet/data/BANKING/17189156.pdf matches 54.49%
+2. DataSet/data/CONSULTANT/26919036.pdf matches 52.04%
+3. DataSet/data/DESIGNER/26496059.pdf matches 51.78%
+4. DataSet/data/SALES/19147494.pdf matches 50.14%
+5. DataSet/data/APPAREL/26691587.pdf matches 49.33%
+
+Please wait... Finding the best match for Apple Solutions Consultant at Apple
+
+Top five matching resumes for the role Apple Solutions Consultant at Apple are :
+
+1. DataSet/data/AUTOMOBILE/22732234.pdf matches 51.16%
+2. DataSet/data/ENGINEERING/28628090.pdf matches 50.32%
+3. DataSet/data/BANKING/17189156.pdf matches 50.28%
+4. DataSet/data/APPAREL/17714174.pdf matches 50.09%
+5. DataSet/data/ARTS/36019469.pdf matches 49.84%
+
+Please wait... Finding the best match for Licensing Coordinator - Consumer Products at Netflix
+
+Top five matching resumes for the role Licensing Coordinator - Consumer Products at Netflix are :
+
+1. DataSet/data/DESIGNER/26496059.pdf matches 63.81%
+2. DataSet/data/BANKING/17189156.pdf matches 63.27%
+3. DataSet/data/DIGITAL-MEDIA/80679862.pdf matches 62.14%
+4. DataSet/data/HEALTHCARE/29134372.pdf matches 61.92%
+5. DataSet/data/FINANCE/59777056.pdf matches 60.45%
+
+Please wait... Finding the best match for Web Designer at Robert Half
+
+Top five matching resumes for the role Web Designer at Robert Half are :
+
+1. DataSet/data/DESIGNER/26496059.pdf matches 52.41%
+2. DataSet/data/DESIGNER/26790545.pdf matches 49.92%
+3. DataSet/data/DIGITAL-MEDIA/80679862.pdf matches 48.22%
+4. DataSet/data/PUBLIC-RELATIONS/13129275.pdf matches 47.76%
+5. DataSet/data/AUTOMOBILE/11152490.pdf matches 47.57%
+
+Please wait... Finding the best match for Web Developer at TrackFive
+
+Top five matching resumes for the role Web Developer at TrackFive are :
+
+1. DataSet/data/DESIGNER/26496059.pdf matches 68.42%
+2. DataSet/data/BANKING/17189156.pdf matches 66.51%
+3. DataSet/data/HEALTHCARE/29134372.pdf matches 65.76%
+4. DataSet/data/ACCOUNTANT/12442909.pdf matches 65.37%
+5. DataSet/data/INFORMATION-TECHNOLOGY/27372171.pdf matches 65.16%
+
+Please wait... Finding the best match for Frontend Web Developer at DesignUps
+
+Top five matching resumes for the role Frontend Web Developer at DesignUps are :
+
+1. DataSet/data/DESIGNER/26496059.pdf matches 31.89%
+2. DataSet/data/ADVOCATE/24588864.pdf matches 31.15%
+3. DataSet/data/DESIGNER/13774329.pdf matches 30.66%
+4. DataSet/data/DESIGNER/30965258.pdf matches 30.38%
+5. DataSet/data/AUTOMOBILE/15100547.pdf matches 30.29%
+
+Please wait... Finding the best match for Remote Website Designer at Equisolve, Inc.
+
+Top five matching resumes for the role Remote Website Designer at Equisolve, Inc. are :
+
+1. DataSet/data/DESIGNER/10748989.pdf matches 63.74%
+2. DataSet/data/DESIGNER/67582956.pdf matches 55.96%
+3. DataSet/data/DESIGNER/13774329.pdf matches 55.86%
+4. DataSet/data/FITNESS/22488036.pdf matches 55.06%
+5. DataSet/data/APPAREL/15154822.pdf matches 55.02%
+
+Please wait... Finding the best match for Web Designer at Zander Insurance Agency
+
+Top five matching resumes for the role Web Designer at Zander Insurance Agency are :
+
+1. DataSet/data/DESIGNER/26496059.pdf matches 66.25%
+2. DataSet/data/DESIGNER/26790545.pdf matches 64.8%
+3. DataSet/data/DIGITAL-MEDIA/80679862.pdf matches 63.44%
+4. DataSet/data/DESIGNER/30965258.pdf matches 63.04%
+5. DataSet/data/APPAREL/15154822.pdf matches 61.56%
+
+Please wait... Finding the best match for Web Designer at Tuff
+
+Top five matching resumes for the role Web Designer at Tuff are :
+
+1. DataSet/data/DESIGNER/26496059.pdf matches 58.8%
+2. DataSet/data/DIGITAL-MEDIA/80679862.pdf matches 57.96%
+3. DataSet/data/PUBLIC-RELATIONS/23673025.pdf matches 56.57%
+4. DataSet/data/DESIGNER/26790545.pdf matches 56.42%
+5. DataSet/data/BANKING/17189156.pdf matches 56.26%
+
+Please wait... Finding the best match for SR. Web Designer at General Dynamics Information Technology
+
+Top five matching resumes for the role SR. Web Designer at General Dynamics Information Technology are :
+
+1. DataSet/data/DESIGNER/21283733.pdf matches 53.34%
+2. DataSet/data/PUBLIC-RELATIONS/13129275.pdf matches 51.23%
+3. DataSet/data/AUTOMOBILE/11152490.pdf matches 51.05%
+4. DataSet/data/DESIGNER/26790545.pdf matches 50.84%
+5. DataSet/data/DESIGNER/26496059.pdf matches 50.49%
+
+Done!...
+
+Process finished with exit code 0
+

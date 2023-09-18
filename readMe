@@ -1,0 +1,51 @@
+Resume Matcher using CountVectorizer
+
+ 
+CountVectorizer is used to transform a given text into a vector on the basis of the frequency (count) of each word that occurs in the entire text.
+CountVectorizer creates a matrix in which each unique word is represented by a column of the matrix, and each text sample from the document is a row in the matrix. The value of each cell is nothing but the count of the word in that particular text sample. CountVectorizer.fit_transform is used to get the cosine similarity between resume infromatiions and job description intormations,
+
+
+
+Running Resume Matcher:
+
+required libraries: (python3)
+
+PyPDF2
+pdfplumber
+Scikit-learn 
+time
+os
+csv 
+
+install the required libraries or use the Virtual environment from the project 
+
+update the paths in main.py
+run main.py
+
+PROPOSED METHOD:
+
+1. extract the Job description one by one using csv reader.Extracted Company_name, position_title and core_responsibilities feilds 
+2. Process the extracted job description. Revome the new lines and other unwanted informations.
+
+
+3. traverse resume dataset and extract the texts from resumes
+4. process the extractext text form resumes, Revome the new lines and other unwanted informations.
+5 compare the processed resume texts to processed job descriptions using CountVectorizer.fit_transform()
+6 store the resume details and cosine similarity value returned from CountVectorizer.fit_transform() in a result dictionay
+
+repeat the steps 3 to 6 till all the resumes in the dataset is compared to job description 
+To get top five matching resumes sort the result list in descending order and display first five resumes and its matching score
+
+Results 
+
+
+
+
+
+
+
+ 
+
+
+
+
