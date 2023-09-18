@@ -62,6 +62,10 @@ Update the path in main.py and run
 
 ## Screenshots
 
-![Results]file:///home/shashank/Pictures/Screenshots/Screenshot%20from%202023-09-18%2013-10-52.png
+![Results] Screenshots/results1.png
+![Results] Screenshots/results2.png
+![Results] Screenshots/results3.png
+![Results] Screenshots/results4.png
+![Results] Screenshots/results5.png
 
 
