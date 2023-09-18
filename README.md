@@ -59,16 +59,9 @@ Update the path in main.py and run
 ```
 
 
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
 
 ## Screenshots
 
-![Results ](file:///home/shashank/Pictures/Screenshots/Screenshot%20from%202023-09-18%2013-10-52.png)
+![Results]file:///home/shashank/Pictures/Screenshots/Screenshot%20from%202023-09-18%2013-10-52.png
+
 
